@@ -15,9 +15,8 @@ body {
 }
 main {
   flex: 1 0 auto;
-  margin: 2vw; 
+  padding: 2vw; 
 }
 footer {
   flex: 0 0 auto;
-
 } 
